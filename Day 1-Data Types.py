@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul 24 21:56:54 2020
-
 @author: ankit.khule
 """
 
